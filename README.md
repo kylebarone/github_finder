@@ -1,3 +1,6 @@
+# Github Finder
+A react app to the search for users via the github api and display they're information. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
